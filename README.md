@@ -1,4 +1,4 @@
 # demo
 This is my Git Repository. 
 <br/>
-Author - Adeela Khanum
+Author - Adeela Khanum (demo)
